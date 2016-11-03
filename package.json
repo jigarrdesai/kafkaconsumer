@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "kafkaconsumer",
+        "scope": null,
+        "escapedName": "kafkaconsumer",
+        "name": "kafkaconsumer",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jigardesai/Desktop/ShreeGanesh/Adesh/work/rklick/processmicroservice"
+    ]
+  ],
+  "_from": "kafkaconsumer@latest",
+  "_id": "kafkaconsumer@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/kafkaconsumer",
+  "_nodeVersion": "4.4.7",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/kafkaconsumer-1.0.1.tgz_1473324909178_0.8437984883785248"
+  },
+  "_npmUser": {
+    "name": "jigarrdesai",
+    "email": "jigar_desai12@hotmail.com"
+  },
+  "_npmVersion": "2.15.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "kafkaconsumer",
+    "scope": null,
+    "escapedName": "kafkaconsumer",
+    "name": "kafkaconsumer",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kafkaconsumer/-/kafkaconsumer-1.0.1.tgz",
+  "_shasum": "9578ec5bef85a6406b1dd573ac2e55caddc5b09f",
+  "_shrinkwrap": null,
+  "_spec": "kafkaconsumer",
+  "_where": "/Users/jigardesai/Desktop/ShreeGanesh/Adesh/work/rklick/processmicroservice",
+  "author": {
+    "name": "jigar r desai"
+  },
+  "bugs": {
+    "url": "https://github.com/jigarrdesai/kafkaconsumer/issues"
+  },
+  "dependencies": {},
+  "description": "receive message from kafka",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9578ec5bef85a6406b1dd573ac2e55caddc5b09f",
+    "tarball": "https://registry.npmjs.org/kafkaconsumer/-/kafkaconsumer-1.0.1.tgz"
+  },
+  "homepage": "https://github.com/jigarrdesai/kafkaconsumer#readme",
+  "keywords": [
+    "kafka",
+    "consumer"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jigarrdesai",
+      "email": "jigar_desai12@hotmail.com"
+    }
+  ],
+  "name": "kafkaconsumer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigarrdesai/kafkaconsumer.git"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "version": "1.0.1"
+}
